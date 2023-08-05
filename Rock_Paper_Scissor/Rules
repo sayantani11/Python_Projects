@@ -1,0 +1,13 @@
+Rock Paper Scissor is a transitive hand game  usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
+These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V).
+This game is also sometimes reffered to as "stone, paper, scissors'.
+
+
+Rules of the game:
+1. Rock vs Paper --> Paper wins
+2. Paper vs Scissors --> Scissors wins
+3. Scissors vs Rock --> Rock wins
+
+In this game you will be asked to pick the total number of rounds that you want to play. 
+Then you will be asked to choose a number between 1,2,3 being rock,paper,scissors respectively.
+Then the computer will ask to choose. Following the rules of the game you will win or lose.
